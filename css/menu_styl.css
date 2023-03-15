@@ -1,0 +1,46 @@
+? header('Content-type: text/css');?>
+html{
+    background-color: #b3baba;
+}
+
+.menu{
+  text-align: center;
+}
+#czas{
+float: right;
+font-family: monospace;
+color: #b3baba;
+}
+p{
+text-align: center;
+font-family: monospace;
+font-weight: bold;
+cursor: default;
+color: #b3baba;
+}
+.header{
+  color: #b3baba;
+  background-color: #F23B1C;
+  height: 10%;
+
+}
+a{
+  margin: 0px;
+  font-size: 17px !important;
+}
+h1{
+  padding: 0px;
+}
+h3{
+  color: #F23B1C !important;
+  font-size: 18px !important;
+}
+.row{
+  margin-right: 0px;
+  margin-left: 0px;
+  padding: 0px;
+}
+.col-sm-12{
+  padding: 0px !important;
+
+}

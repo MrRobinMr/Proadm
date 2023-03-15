@@ -1,0 +1,115 @@
+<? header('Content-type: text/css');?>
+html{
+    background-color: #b3baba;
+}
+body{
+  margin: 0;
+  padding: 0;
+  font-family: monospace;
+  background-color: #b3baba;
+  background-size: cover;
+}
+p{
+  color: black;
+  font-size: 15px;
+  margin: 10px;
+  top: 34%;
+  left: 39%;
+}
+.logowaniea{
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+  color: black;
+}
+.logowaniea h1{
+  float: center;
+  text-align: center;
+  font-size: 35px;
+  border-bottom: 4px solid #F23B1C;
+  margin-bottom: 40px;
+  padding: 13px 0;
+  cursor: default;
+}
+.kratka{
+  width: 100%;
+  overflow: hidden;
+  font-family: monospace;
+  font-size: 20px;
+  padding: 8px 0;
+  margin: 8px 0;
+  border-bottom: 1px solid #F23B1C;
+}
+.kratka input{
+  border: none;
+  outline: none;
+  background: none;
+  font-family: monospace;
+  color: black;
+  font-size: 20px;
+  width: 100%;
+  float: left;
+  margin: 0 10px;
+}
+.zaloguj{
+  width: 60%;
+  background: none;
+  font-size: 15px;
+  font-weight: bold;
+  border: 2px solid #F23B1C;
+  font-family: monospace;
+  padding: 4px;
+  cursor: pointer;
+  margin: 10px 0;
+}
+.zaloguj:hover{
+  background-color: #F23B1C;
+  color: white;
+}
+.daty{
+  margin: 5px;
+    font-family: monospace;
+    color: grey;
+}
+table{
+border-collapse: collapse;
+border: 1px black solid;
+}
+.tabe{
+left: 16%;
+margin: 0;
+font-family: monospace;
+font-size: 18px;
+}
+.tabe td{
+margin: 0;
+font-size: 18px;
+
+}
+.pro
+{
+	background-color: white;
+	 padding: 15px;
+	  border-radius: 10px;
+		 width:75%;
+		  height:30%;
+			margin-top:60px;
+			margin-left:15%;
+}
+.pro:hover
+{
+	background-color: #F23B1C;
+}
+h2{
+	margin-bottom:2px;
+}
+.margin{
+  margin-right: 0px;
+}
+.usun{
+  color: red;
+  text-decoration: none;
+  cursor: pointer;
+}
